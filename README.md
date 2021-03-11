@@ -23,7 +23,7 @@ The project consists of three folders:
 - <code>src</code> - <code>.java</code> files (source codes)
 
 Besides the <code>Tic Tac Toe.jar</code> file, it also includes the following document:
-- <code>Problem Formulation Report.pdf</code> - Formal discussion of the levels of rationality and behavior of the agent
+- <code>Technical Report.pdf</code> - Formal discussion of the levels of rationality and behavior of the agent
 
 ## Built Using
 This project was built using <b>Java</b> following the Model-View-Controller (MVC) architectural pattern, with the <code>.class</code> files generated via <b>Java SE Development Kit 14</b>. The graphical user interface was created using <b>Swing</b>, a platform-independent toolkit that is part of the Java Foundation Classes. 
