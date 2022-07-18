@@ -18,12 +18,12 @@ In addition to the <b>match statistics</b> and the <b>decision time of both play
 
 The project consists of three folders:
 
-- <code>api</code> - <code>Javadoc</code> documentation of this project
-- <code>out</code> - <code>.class</code> files
-- <code>src</code> - <code>.java</code> files (source codes)
+- [<code>api</code>](https://github.com/memgonzales/tic-tac-toe/tree/master/api) - <code>Javadoc</code> documentation of this project
+- [<code>out</code>](https://github.com/memgonzales/tic-tac-toe/tree/master/out) - <code>.class</code> files
+- [<code>src</code>](https://github.com/memgonzales/tic-tac-toe/tree/master/src) - <code>.java</code> files (source codes)
 
-Besides the <code>Tic Tac Toe.jar</code> file, it also includes the following document:
-- <code>Technical Report.pdf</code> - Formal discussion of the levels of rationality and behavior of the agent
+Besides the [<code>Tic Tac Toe.jar</code>](https://github.com/memgonzales/tic-tac-toe/blob/master/Tic%20Tac%20Toe.jar) file, it also includes the following document:
+- [<code>Technical Report.pdf</code>](https://github.com/memgonzales/tic-tac-toe/blob/master/Technical%20Report.pdf) - Formal discussion of the levels of rationality and behavior of the agent
 
 ## Built Using
 This project was built using <b>Java</b> following the Model-View-Controller (MVC) architectural pattern, with the <code>.class</code> files generated via <b>Java SE Development Kit 14</b>. The graphical user interface was created using <b>Swing</b>, a platform-independent toolkit that is part of the Java Foundation Classes. 
@@ -37,4 +37,4 @@ This project was built using <b>Java</b> following the Model-View-Controller (MV
   hylene_jules_lee@dlsu.edu.ph <br/>
   lee.hylene@gmail.com
   
- Assets (images) are properties of their respective owners. Attribution is found in the file <code>src/gui/assets/asset-credits.txt</code>.
+ Assets (images) are properties of their respective owners. Attribution is found in the file [<code>src/gui/assets/asset-credits.txt</code>](https://github.com/memgonzales/tic-tac-toe/blob/master/src/gui/assets/asset-credits.txt).
