@@ -4,7 +4,7 @@ This project is an intelligent system demonstrating the application of adversari
 This application follows the classical version of the game, where two players take turns in placing their tokens (X's and O's) on a 3 x 3 board and the winner is the player who first places three of their tokens to form a complete row, column, or diagonal. It is to be noted that tic-tac-toe is a solved game resulting in a forced draw given perfect play from both parties.
 
 ## Task
-<b>Tic-tac-toe</b> is a major course output for an introduction to intelligent systems class. The goal of the agent is to <i>form one of the eight winning configurations before its opponent, thus winning the game</i>. This application exhibits six levels of rationality, distinguished by the complexity of their goals and their underlying algorithms:
+<b>Tic-tac-toe</b> is a major course output in an introduction to intelligent systems class. The goal of the agent is to <i>form one of the eight winning configurations before its opponent, thus winning the game</i>. This application exhibits six levels of rationality, distinguished by the complexity of their goals and their underlying algorithms:
 - <b>Level 0:</b> The agent decides on its moves randomly as long as the position is unoccupied. 
 - <b>Level 1:</b> From this level onwards, the agent also aims to <i>actively prevent its opponent from completing a winning configuration</i>. In order to do so, it consults a hard-coded table of optimal moves per board configuration.
 - <b>Level 2:</b> The agent employs the standard minimax algorithm (a depth-first search strategy for adversarial games).
